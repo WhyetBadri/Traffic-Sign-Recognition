@@ -16,7 +16,7 @@ The German Traffic Sign Dataset consists of:
 Each image is a photo of a traffic sign belonging to one of 43 classes, e.g. traffic sign types.
 
 <p align="center">
-  <img src="images/sample_signs.png" alt="Sample Traffic Signs"/>
+  <img src="images/sample_images.png" alt="Sample Traffic Signs"/>
 </p>
 
 ## Approach
